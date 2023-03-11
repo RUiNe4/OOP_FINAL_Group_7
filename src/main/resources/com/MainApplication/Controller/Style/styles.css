@@ -1,0 +1,94 @@
+.root{
+    -fx-font-family: Calibri;
+    -fx-background-color: white;
+}
+.scroll-pane > .viewport {
+    -fx-background-color: transparent;
+}
+
+.tab-pane *.tab-header-background {
+    -fx-background-color:  #222428;
+    /*-fx-effect: innershadow(two-pass-box , rgba(0,0,0,0.6) , 4, 0.0 , 0 , 0);*/
+    -fx-effect: none;
+}
+
+#cart-view,
+#gridBox {
+    -fx-background-color: white;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.15), 10, 0, 0, 0);
+    -fx-background-radius: 5;
+
+}
+
+.shadow{
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.15), 10, 0, 0, 0);
+}
+#transparent{
+    -fx-background-color: rgba(0,0,0,0);
+    -fx-border-color: rgba(0,0,0,0);
+}
+
+
+#deleteBtn {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#addBtn{
+    -fx-background-color: #1ED760;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#tabStyle {
+    -fx-background-color:  #222428;
+    -fx-border-color: black;
+    -fx-pref-width: 100px;
+    -fx-pref-height: 50px;
+    -fx-font-size: 16px;
+}
+
+.tab-label{
+    -fx-text-fill:  #727272;
+}
+
+#tabStyle:selected {
+    -fx-background-color: #1ED760;
+    -fx-font-weight: bold;
+}
+
+#tabStyle:selected .tab-label {
+    -fx-text-fill: white;
+}
+
+#right-panel {
+    -fx-background-color: linear-gradient(to bottom right, rgba(25, 105, 36, 1) 26%, rgba(255, 255, 255, 1) 59%);;
+}
+
+#addTextField {
+    -fx-background-color: white;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.7), 10, 0, 0, 0);
+}
+
+#confirmBtn{
+    -fx-background-color: #1ED760;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5;
+}
+
+#increaseBtn,
+#decreaseBtn{
+    -fx-background-color: none;
+    -fx-background-radius: 0 0 30px 30px;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+}
+#increaseBtn{
+    -fx-background-radius: 30px 30px 0 0;
+}
+#item-list{
+    -fx-background-radius: 20px;
+    -fx-padding: 10;
+}

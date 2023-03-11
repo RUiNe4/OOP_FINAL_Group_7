@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9c97c3b-1c9b-4612-aca5-6721b71c79d8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/possys.sql/possys.sql" beforeDir="false" afterPath="$PROJECT_DIR$/possys.sql/possys.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/DatabaseFunction/TemporaryProductQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DatabaseFunction/TemporaryProductQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MainApplication/Controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MainApplication/Controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MainApplication/Controller/GridController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MainApplication/Controller/GridController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MainApplication/Controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MainApplication/Controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MainApplication/Controller/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MainApplication/Controller/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/MainApplication/Controller/adminMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/MainApplication/Controller/adminMenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ProductManagement/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ProductManagement/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ProductManagement/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ProductManagement/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ProductManagement/TempProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ProductManagement/TempProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/MainApplication/Controller/Style/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/MainApplication/Controller/Style/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/MainApplication/Controller/adminMenu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/MainApplication/Controller/adminMenu.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/MainApplication/Controller/invoice/RCPT10003.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/MainApplication/Controller/invoice/RCPT10004.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/MainApplication/Controller/invoice/RCPT10005.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/MainApplication/Controller/item-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/MainApplication/Controller/item-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/MainApplication/Controller/product-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/MainApplication/Controller/product-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MAoccie9eKVHssmDhLUsa0tFlC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sunch/Desktop/OOP_Final_Project/image4j.jar&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15332031&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\OOP_Final_Project\src\main\java\com\ProductManagement" />
+      <recent name="D:\Projects\OOP_Final_Project\src\main\java\com\DatabaseFunction" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\OOP_Final_Project\src\main\resources\com\MainApplication\Controller\Style" />
+      <recent name="D:\Projects\OOP_Final_Project\src\main\resources\com\MainApplication\Controller" />
+      <recent name="D:\Projects\OOP_Final_Project\src\main\java\com\DatabaseFunction" />
+      <recent name="D:\OOP-Project\src\main\resources\com\MainApplication\Controller" />
+      <recent name="D:\OOP_Final_Project\src\main\resources\images" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.MainApplication.Controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GridController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.MainApplication.Controller.GridController" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.UserManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.MainApplication.Controller.Main" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.UserManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Mian" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.MainApplication.Controller.ProductController" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.UserManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="itext-xtra-5.1.0.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/itext-xtra-5.1.0.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JAR Application.itext-xtra-5.1.0.jar" />
+        <item itemvalue="Application.Mian" />
+        <item itemvalue="Application.ProductController" />
+        <item itemvalue="Application.GridController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9c97c3b-1c9b-4612-aca5-6721b71c79d8" name="Changes" comment="" />
+      <created>1677219830795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677219830795</updated>
+      <workItem from="1677219833251" duration="60000" />
+      <workItem from="1677219992600" duration="49000" />
+      <workItem from="1677220054466" duration="2505000" />
+      <workItem from="1677226058040" duration="5062000" />
+      <workItem from="1677294355334" duration="306000" />
+      <workItem from="1677295832081" duration="2847000" />
+      <workItem from="1677299297815" duration="500000" />
+      <workItem from="1677316213860" duration="4120000" />
+      <workItem from="1677320906395" duration="221000" />
+      <workItem from="1677321477450" duration="2143000" />
+      <workItem from="1677331644144" duration="8105000" />
+      <workItem from="1677640042911" duration="10816000" />
+      <workItem from="1677653811476" duration="30463000" />
+      <workItem from="1677720991601" duration="2634000" />
+      <workItem from="1677724241351" duration="3946000" />
+      <workItem from="1677728863461" duration="132000" />
+      <workItem from="1677822374810" duration="1698000" />
+      <workItem from="1677825880867" duration="998000" />
+      <workItem from="1677830554048" duration="18917000" />
+      <workItem from="1677864249864" duration="3287000" />
+      <workItem from="1677903150380" duration="2308000" />
+      <workItem from="1677915202763" duration="13412000" />
+      <workItem from="1677935714430" duration="1342000" />
+      <workItem from="1677941314924" duration="4648000" />
+      <workItem from="1677983737365" duration="918000" />
+      <workItem from="1678030587682" duration="5152000" />
+      <workItem from="1678068488874" duration="5589000" />
+      <workItem from="1678153645809" duration="629000" />
+      <workItem from="1678155116464" duration="493000" />
+      <workItem from="1678156500098" duration="124000" />
+      <workItem from="1678157039845" duration="2270000" />
+      <workItem from="1678159404364" duration="1419000" />
+      <workItem from="1678161068130" duration="41000" />
+      <workItem from="1678161482904" duration="458000" />
+      <workItem from="1678162446907" duration="32000" />
+      <workItem from="1678177048199" duration="3963000" />
+      <workItem from="1678190858004" duration="8065000" />
+      <workItem from="1678247971455" duration="4927000" />
+      <workItem from="1678263534452" duration="658000" />
+      <workItem from="1678264228591" duration="666000" />
+      <workItem from="1678264964035" duration="4027000" />
+      <workItem from="1678269062807" duration="69000" />
+      <workItem from="1678269515189" duration="157000" />
+      <workItem from="1678325550443" duration="98000" />
+      <workItem from="1678325772368" duration="1990000" />
+      <workItem from="1678332909956" duration="4214000" />
+      <workItem from="1678430016020" duration="16256000" />
+      <workItem from="1678450924759" duration="500000" />
+      <workItem from="1678520750816" duration="291000" />
+      <workItem from="1678540785049" duration="8187000" />
+      <workItem from="1678551136497" duration="15000" />
+      <workItem from="1678551252116" duration="929000" />
+      <workItem from="1678552218302" duration="6058000" />
+      <workItem from="1678558519514" duration="244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
